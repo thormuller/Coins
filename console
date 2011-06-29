@@ -1,0 +1,14 @@
+Script started on Tue Jun 28 22:44:37 2011
+bash-3.2$ class Word < String
+bash: String: No such file or directory
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ s = "test"
+bash: s: command not found
+bash-3.2$ c
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ exit
+
+Script done on Tue Jun 28 22:45:17 2011
